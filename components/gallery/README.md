@@ -80,7 +80,7 @@ In this example we'll use the `home` image declared in the sample we provided ab
 let script = {
 	// The game starts here.
 	"Start": [
-		"Welcome! Let's see how the gallery works! If you haven;t checked it out, open it from the quick menu!",
+		"Welcome! Let's see how the gallery works! If you haven't checked it out, open it from the main menu!",
 		{"Function":{
 			"Apply": function () {
 				ImageGallery.unlock ("home");
