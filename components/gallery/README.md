@@ -1,5 +1,7 @@
 # Gallery
 
+![Image Gallery Screenshot](./screenshot.png)
+
 This component adds an image gallery to your game. With it, you may define the set of images you want to include and then lock or unlock them through the game!
 
 This component is compatible with Monogatari **v1.4.1**
